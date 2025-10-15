@@ -48,35 +48,6 @@ Three machine learning models were trained for genre classification:
 - **Matplotlib / Seaborn**
 
 
-## 🧩 Folder Structure
-```
-├── Data/
-│ └── genres_original/
-├── Features/
-├── Models/
-├── Notebooks/
-│ └── music_genre_classification.ipynb
-├── README.md
-└── requirements.txt
-```
-
-
-## ⚙️ How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/username/music-genre-classification.git
-cd music-genre-classification
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Open the Jupyter Notebook:
-```bash
-jupyter notebook
-```
-4. Run the cells to train models and visualize results.
-
 
 ## 🏁 Conclusion
 - Neural networks achieve higher accuracy for music genre classification.
